@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==4.2.6
+mysqlclient @ file:///C:/Users/dede_/Desktop/teste1/Projeto%20cadastro-login/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
